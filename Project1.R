@@ -1,6 +1,5 @@
 rm(list = ls())
 
-
 library(car)
 library(rrcov)
 library(robustbase)
